@@ -70,7 +70,7 @@ This list is incomplete! Similar contributions are also recognized.
 #### Privileges
 
 - All privileges of the [Contributor role](#level-1-contributor), plus...
-- Invitation to the `@mantainer` role in Discord
+- Invitation to the `@maintainer` role in Discord
 - Invitation to the private `#maintainers` channel on Discord
 - Invitation to the `TresJS` organization on GitHub
 - Invitation to the `@maintainers` team on GitHub
@@ -100,7 +100,7 @@ This list is incomplete! Similar contributions are also recognized.
 
 ### Level 3: Core Maintainer
 
-The **Core Maintainer** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core memmber is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proacttively providing feedback on RFCs.
+The **Core Maintainer** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core memmber is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proactively providing feedback on RFCs.
 
 #### Privileges
 
