@@ -8,7 +8,7 @@ This document outlines the governance model for TresJS ecosystem. This is a livi
 
 Contributions might come in different forms, they are all meaningful and valuable to the community.
 
-- Writing code (see our [contribution guidelines](CONTRIBUTING.md))
+- Writing code (see our [contribution guidelines](https://github.com/Tresjs/tres/blob/main/CONTRIBUTING.md)
 - Reporting a bug (with a proper reproduction link 😜)
 - Suggesting an enhancement
 - Documentation
