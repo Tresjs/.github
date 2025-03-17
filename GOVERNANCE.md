@@ -14,7 +14,7 @@ Contributions might come in different forms, they are all meaningful and valuabl
 - Documentation
 - Translating docs to other languages
 - Helping other users on Discord
-- Creating tutorials or articles how you added 3D with TresJS to your Vue website
+- Creating tutorials or articles on how you added 3D with TresJS to your Vue website
 
 No contribution is too small, we are all here to learn and grow together.
 
@@ -33,27 +33,27 @@ Examples of recognized contributions:
 - **Github:** Updating documentation or fixing a typo
 - Helping people on GitHub, Discord, etc.
 - Answering questions on Stack Overflow, socials, etc.
-- Creating tutorials, videos, courses and livestreams about TresJS
+- Creating tutorials, videos, courses, and live streams about TresJS
 
 
 #### Accountabilities
 
-Rest assured, this role does not require any extra responsibilities nor time commitment. We hope you stick around and keep participating in our community!
+Rest assured, this role does not require any extra responsibilities or time commitment. We hope you stick around and keep participating in our community!
 
 #### Nomination process
 
-You may self-nominate yourself by sending the message `!contribute` to any Discord channel. If you do this, please share a second message with a link or a description of your contribution.
+You may self-nominate yourself by sending the message `!contribute` to any Discord channel followed by a link or a text explaining your contribution. Example: `!contribute created a new demo on the #showcase channel` 
 
 You may also be granted this role automatically if you are active and helpful on Discord
 
 ### Level 2: Maintainer
 
-The Maintainer role is available to contributors who want to join the team and take part in the long-term maintenance and growth of TresJS ecosystem.
+The Maintainer role is available to contributors who want to join the team and take part in the long-term maintenance and growth of the TresJS ecosystem.
 
-This role is critical to TresJS long-term success and growth. Mantainers act as the public face of the project and are most likely to be your first point of contact when interacting with Discord or Github.
+This role is critical to TresJS long-term success and growth. Maintainers act as the public face of the project and are most likely to be your first point of contact when interacting with Discord or Github.
 
 > [!NOTE]  
-> **Maintainers are not required to write code**! Some Maintainers spend most of their time inside of Discord, maintaining a healthy community there. Others work on technical documentation, reviewing PRs, support, or design.
+> **Maintainers are not required to write code**! Some Maintainers spend most of their time inside Discord, maintaining a healthy community there. Others work on technical documentation, reviewing PRs, support, or design.
 
 #### Recognized Contributions
 
