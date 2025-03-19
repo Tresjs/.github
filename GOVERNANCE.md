@@ -70,7 +70,7 @@ This list is incomplete! Similar contributions are also recognized.
 #### Privileges
 
 - All privileges of the [Contributor role](#level-1-contributor), plus...
-- Invitation to the `@mantainer` role in Discord
+- Invitation to the `@maintainer` role in Discord
 - Invitation to the private `#maintainers` channel on Discord
 - Invitation to the `TresJS` organization on GitHub
 - Invitation to the `@maintainers` team on GitHub
@@ -100,7 +100,7 @@ This list is incomplete! Similar contributions are also recognized.
 
 ### Level 3: Core Maintainer
 
-The **Core Maintainer** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core memmber is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proacttively providing feedback on RFCs.
+The **Core Maintainer** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core member is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proactively providing feedback on RFCs.
 
 #### Privileges
 
@@ -115,7 +115,7 @@ The **Core Maintainer** role is available to community members who have a larger
 - All of the responsibilities of L2, including...
 - Ownership over specific part(s) of the project (a repo, a package, a website)
 - Ownership over the long-term health and success of TresJS
-- Leadership as a role-model to other maintainers and community members
+- Leadership as a role model to other maintainers and community members
 
 #### Nomination
 
@@ -126,7 +126,7 @@ The **Core Maintainer** role is available to community members who have a larger
 
 ### Level 4: Steward
 
-The **Steward** is an additional role bestowed to 1 (or more) Core member of the project.
+The **Steward** is an additional role bestowed to 1 (or more) Core members of the project.
 
 The role of Steward is mainly an administrative one. Stewards control and maintain sensitive project assets, assist in resolving conflicts, and act as tiebreakers in the event of disagreements.
 
@@ -157,13 +157,13 @@ The project Steward is currently [@alvarosabu](https://github.com/alvarosabu)
 
 #### Retiring a Role (Alumni)
 
-Contributor roles are granted for as long as the person wishes to engage with the project. However, over time an active community member may choose to step away from the TresJS ecosystem to work on other things. Moving on from a project is a natural and well-understood part of any open source community, and we celebrate it!
+Contributor roles are granted for as long as the person wishes to engage with the project. However, over time an active community member may choose to step away from the TresJS ecosystem to work on other things. Moving on from a project is a natural and well-understood part of any open-source community, and we celebrate it!
 
-Alumni is a special designation and role for any person who was once an active maintainer (L2 or above) but is now no longer actively involved. By retiring and joining Alumni you trade-in your current set of roles, privileges, and responsibilities for a new, special Alumni role.
+Alumni is a special designation and role for any person who was once an active maintainer (L2 or above) but is now no longer actively involved. By retiring and joining Alumni you trade in your current set of roles, privileges, and responsibilities for a new, special Alumni role.
 
-As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead-of-time that you need to step away from the project.
+As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead of time that you need to step away from the project.
 
-If you are not actively contributing to TresJS's repositories or the TresJS community for longer than six months, the project Steward may proactively retire your role, designate you as a project alumnus, and notify you of the change.
+If you are not actively contributing to TresJS's repositories or the TresJS community for longer than six months, the project Steward may proactively retire your role, designate you as a project alumnis, and notify you of the change.
 
 As an Alumni member, you are still a part of the TresJS community and can continue to be a part of our Discord, GitHub, and anywhere else. You may also request to have your old roles reinstated at any time through the normal nomination & voting process for that role.
 
@@ -175,25 +175,25 @@ Rejoining the project as a contributor (L1 or above) will automatically remove y
 
 Certain project decisions (like governance changes and membership nominations) require a vote. Below are the changes that require a vote, and the rules that govern that vote.
 
-The project Steward may initiate a vote for any unlisted project decision. [General Rules](#general-voting-rules) will apply, along with any addition rules provided at the steward's discretion. If this unlisted project decision is expected to be repeated in the future, voting rules should be agreed on and then added to this document.
+The project Steward may initiate a vote for any unlisted project decision. [General Rules](#general-voting-rules) will apply, along with any additional rules provided at the steward's discretion. If this unlisted project decision is expected to be repeated in the future, voting rules should be agreed on and then added to this document.
 
 ### General Voting Rules
 
 - Members may abstain from any vote.
 - Members who do not vote within 5 days will automatically abstain.
-- Stewards may reduce the 5 day automatic abstain for urgent decisions.
+- Stewards may reduce the 5-day automatic abstain for urgent decisions.
 - Stewards reserve the right to veto approval with a publicly disclosed reason.
 
 ## Voting: Maintainer (L2) Nomination
 
-This process kicks off once a valid nomination has been made. See ["Maintainer - Nomination Process"](#nomination-process) above for more details on nomination.
+This process kicks off once a valid nomination has been made. See ["Maintainer - Nomination Process"](#nomination-process) above for more details on the nomination.
 
 **Who can vote:** All Maintainers (L2 and above).
 
 1. A vote thread should be created in Discord #maintainers channel (the private channel for all maintainers).
 2. A vote thread can be created by any Maintainer, Core member, or the Steward.
 3. Once a vote thread is created, existing Maintainers can discuss the nomination in private.
-4. The normal 5 day voting & discussion window begins with the thread creation.
+4. The normal 5-day voting & discussion window begins with the thread creation.
 5. Voting can be done in the thread (visible to other voters) or in a private DM to the project Steward.
 6. Once the vote is complete, the thread is deleted.
 7. The vote must receive an overwhelming majority (70%+) to pass.
@@ -202,7 +202,7 @@ This process kicks off once a valid nomination has been made. See ["Maintainer -
 
 ## Voting: Core Member (L3) Nomination
 
-This process kicks off once a valid nomination has been made. See ["Core Member - Nomination Process"](#nomination-process) above for more details on nomination.
+This process kicks off once a valid nomination has been made. See ["Core Member - Nomination Process"](#nomination-process) above for more details on the nomination.
 
 **Who can vote:** All Core members (L3 and above).
 
@@ -222,10 +222,10 @@ A vote is initiated once a pull request to the GOVERNANCE.md file is submitted b
 
 If the pull request submitter is not a Core Member, the PR can be closed by any Maintainer without a vote. However, any Core Member may request a vote on that PR, in which case a vote is initiated.
 
-**Who can vote:** Core members (L3 and above). All Maintainers are encouraged to discuss and voice their opinion in the pull request discussion. Core members should take the opinions of Maintainers into consideration when voting.
+**Who can vote:** Core members (L3 and above). All Maintainers are encouraged to discuss and voice their opinions in the pull request discussion. Core members should take the opinions of Maintainers into consideration when voting.
 
 1. The pull request discussion thread is used to discuss the governance change.
-2. The normal 5 day voting & discussion window begins with either the PR creation or the removal of `WIP:` from the PR title if the PR was created as a draft.
+2. The normal 5-day voting & discussion window begins with either the PR creation or the removal of `WIP:` from the PR title if the PR was created as a draft.
 3. Voting can be done in the pull request via a review of either **Approve (For)** or **Change Requested (Against)**.
 4. The vote must receive a simple majority (50%+) to pass.
 5. **If the vote passes** the PR is merged and the changes take effect immediately.
